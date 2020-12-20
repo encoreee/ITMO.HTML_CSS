@@ -18,12 +18,29 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		github.png = github.png
 		index.html = index.html
 		map.html = map.html
+		style.css = style.css
 		table.html = table.html
+		table2.html = table2.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Myblock", "Myblock", "{A1FE1352-1EB2-4B71-BD4F-04B16D72B142}"
+	ProjectSection(SolutionItems) = preProject
+		testblock1.html = testblock1.html
+		testblock2.html = testblock2.html
+		testblock3.html = testblock3.html
+		testblock4.html = testblock4.html
+		testblock5.html = testblock5.html
+		testblock6.html = testblock6.html
+		testblock7.html = testblock7.html
+		testblock8.html = testblock8.html
 	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A1FE1352-1EB2-4B71-BD4F-04B16D72B142} = {162F58DC-A6EF-42EC-A36C-3AD754663A56}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {405BD670-2BBE-4428-9404-68591156C8E1}
